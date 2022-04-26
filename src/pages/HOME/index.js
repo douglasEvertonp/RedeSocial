@@ -11,6 +11,7 @@ function Home() {
              <div className="navbar">Navbar</div>
              <div className="feed">Feed</div>
          </main>
+         <h1>commit</h1>
      </div>
     );
   }
